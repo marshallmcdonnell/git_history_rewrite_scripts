@@ -20,6 +20,6 @@ There may be issues with the scripts or some extra lines but this helped me clea
 
 References for scripts:
 
-`git_search.sh` script from answer by [raphinesse] (https://stackoverflow.com/users/380229/raphinesse) found [here](https://stackoverflow.com/questions/10622179/how-to-find-identify-large-files-commits-in-git-history)
+`git_search.sh` script from answer by [raphinesse](https://stackoverflow.com/users/380229/raphinesse) found [here](https://stackoverflow.com/questions/10622179/how-to-find-identify-large-files-commits-in-git-history)
 
-`git_rm_part2.sh` script from answer by [Sam Watkins] (https://stackoverflow.com/users/218294/sam-watkins) found [here](https://stackoverflow.com/questions/10622179/how-to-find-identify-large-files-commits-in-git-history)
+`git_rm_part2.sh` script from answer by [Sam Watkins](https://stackoverflow.com/users/218294/sam-watkins) found [here](https://stackoverflow.com/questions/10622179/how-to-find-identify-large-files-commits-in-git-history)
