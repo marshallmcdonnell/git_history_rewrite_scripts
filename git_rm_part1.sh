@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
-git filter-branch -f --index-filter "git rm --cached --ignore-unmatch $1"
+git filter-branch --force \
+                  --index-filter \
+                    "git rm -r --cached --ignore-unmatch $1" \
+                   --prune-empty \
+                   --tag-name-filter cat \
+                   -- \
+                   --all
 
